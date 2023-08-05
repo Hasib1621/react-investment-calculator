@@ -1,4 +1,8 @@
-About this project: This project is about calculating investment for specific year.  This project is made by basic react.
+# Live Demo:
+https://react-investment-calculatorv1.netlify.app/
+
+# About this project: 
+This project is about calculating investment for specific year.  This project is made by basic react.
 
 Hook used: useState only.
 
